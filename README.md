@@ -8,9 +8,11 @@ Este proyecto analiza las temperaturas extremas de las tres ciudades más famosa
 * **Ingeniería de Datos:** Conversión de unidades mediante la fórmula estadandard ($°C = K - 273.15$).
 * **Visualización Dinámica:** Uso de Escalas de Tiempo (Timelines) para segmentar el comportamiento climático a meses, trimestres o años.
 
-## 📊 Ejemplo de como analizar estos datos: Resultados 2017
 ![febrero](https://github.com/user-attachments/assets/ea77eaf2-4c55-45bd-90b6-42257c8c21e8)
 ![trimestre](https://github.com/user-attachments/assets/b682b1de-f2ac-429a-b6be-438926302de1)
+
+## 📊 Ejemplo de como analizar estos datos: Resultados 2017
+
 | Ciudad | Temp. Mínima (°C) | Temp. Máxima (°C) | Variación (Delta) |
 | :--- | :---: | :---: | :---: |
 | **Las Vegas** | -11.65° | 45.21° | **56.86°C** |
