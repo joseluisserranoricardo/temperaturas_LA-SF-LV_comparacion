@@ -23,3 +23,9 @@ Este proyecto analiza las temperaturas extremas de las tres ciudades más famosa
 ### 🔍 Insights Clave:
 1.  **Efecto Desértico:** Las Vegas presenta la mayor amplitud térmica, con una diferencia de casi 57°C entre su punto más frío y el más cálido, validando el comportamiento climático de zonas áridas.
 2.  **Estabilidad Marítima:** San Francisco, a pesar de estar más al norte, mostró la temperatura mínima más alta (0.75°C), demostrando el efecto regulador del Océano Pacífico frente a Los Ángeles.
+
+## 📁 Estructura del Repositorio
+* `temperature.csv`: Dataset original con registros históricos.
+* `temperaturas LA-SF-LV comparacion.xlsx`: Archivo Excel con la limpieza, transformación y dashboards dinámicos.
+* `README.md`: Documentación del proyecto.
+* `jpeq`: Carpeta de capturas que aparecen en el readme.
