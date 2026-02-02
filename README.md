@@ -18,6 +18,7 @@ Este proyecto analiza las temperaturas extremas de las tres ciudades más famosa
 | **Las Vegas** | -11.65° | 45.21° | **56.86°C** |
 | **Los Ángeles** | -3.54° | 39.37° | 42.91°C |
 | **San Francisco** | 0.75° | 40.47° | 39.72°C |
+
 ![2017](https://github.com/user-attachments/assets/a8e3098c-b3ba-421b-8db1-22d8bfe67e29)
 ### 🔍 Insights Clave:
 1.  **Efecto Desértico:** Las Vegas presenta la mayor amplitud térmica, con una diferencia de casi 57°C entre su punto más frío y el más cálido, validando el comportamiento climático de zonas áridas.
