@@ -28,4 +28,4 @@ Este proyecto analiza las temperaturas extremas de las tres ciudades más famosa
 * `temperature.csv`: Dataset original con registros históricos.
 * `temperaturas LA-SF-LV comparacion.xlsx`: Archivo Excel con la limpieza, transformación y dashboards dinámicos.
 * `README.md`: Documentación del proyecto.
-* `jpeq`: Carpeta de capturas que aparecen en el readme.
+*📁 `jpeg`: Carpeta de capturas que aparecen en el readme.
