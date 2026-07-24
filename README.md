@@ -25,7 +25,7 @@ Este proyecto analiza las temperaturas extremas de las tres ciudades más famosa
 2.  **Estabilidad Marítima:** San Francisco, a pesar de estar más al norte, mostró la temperatura mínima más alta (0.75°C), demostrando el efecto regulador del Océano Pacífico frente a Los Ángeles.
 
 ## 📁 Estructura del Repositorio
-* `temperature.csv`: Dataset original con registros históricos.
+* `data.csv`: Dataset original con registros históricos.
 * `temperaturas LA-SF-LV comparacion.xlsx`: Archivo Final del Trabajo.
 * `README.md`: Documentación del proyecto.
 * `📁jpeg`: Carpeta de capturas que aparecen en el readme.
